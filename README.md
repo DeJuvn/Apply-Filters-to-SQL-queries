@@ -1,5 +1,5 @@
 # Apply-Filters-to-SQL-queries
-# This Project was done in my Google Cybersecurity training
+<!-- This Project was done in my Google Cybersecurity training -->
 
 <b>Project description</b>
 
